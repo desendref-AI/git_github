@@ -1,3 +1,2 @@
 print("Hello world")
-
-noting = "hech narsa"
+nima = "hello"
